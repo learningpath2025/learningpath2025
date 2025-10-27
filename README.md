@@ -78,5 +78,3 @@ graph TD
     classDef microservicesLayer fill:#d5f5e3,stroke:#28a745,stroke-width:1px;
     classDef devOpsLayer fill:#ffe5b4,stroke:#ff9933,stroke-width:1px;
     classDef cloudLayer fill:#e6ccff,stroke:#9933ff,stroke-width:1px;
-
----
