@@ -54,3 +54,8 @@ flowchart TD
     F --> G[Kubernetes / AKS]
     G --> H[Azure Cloud Infrastructure]
     H --> I[CI/CD Pipelines: GitHub Actions / Jenkins]
+
+
+
+
+
