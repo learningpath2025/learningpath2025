@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Abdullah Al Masud</h1>
+<h1 align="center">Abdullah Al Masud</h1>
 
 <p align="center">
 🚀 <b>Lead Software Engineer | .NET & Java Full-Stack | Team Leader | Cloud & Microservices Architect</b>  
