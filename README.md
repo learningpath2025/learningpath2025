@@ -12,12 +12,13 @@
 graph TD
     A[Client Apps] -->|REST / GraphQL| B[API Gateway]
     B --> C[Microservices Cluster]
-    C --> D[(SQL / NoSQL Databases)]
-    C --> E[(Event Bus - Kafka / Event Hub)]
-    E --> F[Data Stream Processing (Airflow, Prometheus)]
-    C --> G[External APIs (FHIR, ServiceNow, Salesforce)]
+    C --> D[(SQL / NoSQL DBs)]
+    C --> E[(Event Bus: Kafka / Event Hub)]
+    E --> F[Data Stream Processing - Airflow & Prometheus]
+    C --> G[External APIs - FHIR / ServiceNow / Salesforce]
     D --> H[(Cloud Storage - Azure Blob / Cosmos DB)]
-    C --> I[Monitoring Stack (Grafana / Splunk / Dynatrace)]
+    C --> I[Monitoring Stack - Grafana / Splunk / Dynatrace]
+
 
 
 🧰 Tech Stack
