@@ -46,7 +46,7 @@ Passionate about scalable architectures, cloud deployments, CI/CD automation, an
 
 ```mermaid
 flowchart TD
-    A[Frontend: Blazor / HTML / CSS] --> B[API Gateway]
+    A[Frontend: Blazor / Swagger UI / HTML / CSS] --> B[API Gateway]
     B --> C[Microservices: .NET Core / Spring Boot]
     C --> D[Databases: SQL Server / Oracle]
     C --> E[ORM: Entity Framework / JPA]
