@@ -24,6 +24,8 @@ Passionate about scalable architectures, cloud deployments, CI/CD automation, an
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 
 **Frontend**  
+![Blazor](https://img.shields.io/badge/Blazor-E34F26?logo=Blazor&logoColor=white)
+![Swagger UI](https://img.shields.io/badge/Swagger-ui-1572B6?logo=swagger-ui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
