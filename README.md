@@ -47,10 +47,10 @@ graph TD
     classDef devOpsLayer fill:#ffe5b4,stroke:#ff9933,stroke-width:1px;
     classDef cloudLayer fill:#e6ccff,stroke:#9933ff,stroke-width:1px;
 
-
 ---
+<br/>
 
-## 🧠 Tech Stack
+## 🧰 Tech Stack
 
 **Languages**  
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
@@ -80,6 +80,3 @@ graph TD
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-A42E2B?logo=gitlab&logoColor=white)
-
----
-
