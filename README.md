@@ -6,6 +6,7 @@
 
 ---
 
+
 ## 🧱 Architecture Expertise
 
 ```mermaid
@@ -22,23 +23,8 @@ graph TD
 
 
 
-
 🧰 Tech Stack
 🖥️ Languages & Frameworks
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -51,21 +37,7 @@ graph TD
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 🗄️ Databases & Data
-
-
-
 
 
 
@@ -77,19 +49,7 @@ graph TD
 
 
 
-
-
-
 🔗 Integration & Data Tools
-
-
-
-
-
-
-
-
-
 
 
 
