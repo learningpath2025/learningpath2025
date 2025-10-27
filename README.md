@@ -1,5 +1,5 @@
 # 👨‍💻 Md Abdullah Al Masud
-### 🚀 Lead Software Engineer | Cloud-Native Architect | Java & .NET Specialist
+### 🚀 Lead Software Engineer | Team Leader | .NET & Java Full-Stack | System Designer
 
 > Innovative Lead Software Engineer with a decade of experience designing and delivering scalable, cloud-native, microservices-driven solutions.  
 > Passionate about system design, DevOps automation, and leading high-performance engineering teams.
@@ -65,24 +65,6 @@ Leadership	Technical	Interpersonal
 
 
 
-
-
-
-
-
-
-
-<h1 align="center">Abdullah Al Masud</h1>
-
-<p align="center">
-🚀 <b>Lead Software Engineer | .NET & Java Full-Stack | Team Leader | Cloud & Microservices Architect</b>  
-</p>
-
-<p align="center">
-💼 10+ years of experience designing, developing, and deploying enterprise-grade software solutions.  
-Passionate about scalable architectures, cloud deployments, CI/CD automation, and leading high-performing engineering teams.
-</p>
-
 ---
 
 ## 🧠 Tech Stack
@@ -118,18 +100,7 @@ Passionate about scalable architectures, cloud deployments, CI/CD automation, an
 
 ---
 
-## 🧩 Architecture Expertise
 
-```mermaid
-flowchart TD
-    A[Frontend: Blazor / Swagger UI / HTML / CSS] --> B[API Gateway]
-    B --> C[Microservices: .NET Core / Spring Boot]
-    C --> D[Databases: SQL Server / Oracle]
-    C --> E[ORM: Entity Framework / JPA]
-    C --> F[Containerization: Docker]
-    F --> G[Kubernetes / AKS]
-    G --> H[Azure Cloud Infrastructure]
-    H --> I[CI/CD Pipelines: GitHub Actions / Jenkins]
 
 
 
