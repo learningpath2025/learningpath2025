@@ -5,7 +5,7 @@
 > Passionate about system design, DevOps automation, and leading high-performance engineering teams.
 
 ---
-
+<br><br>
 
 ## 🧱 Architecture Expertise
 
@@ -47,7 +47,7 @@ graph TD
     classDef devOpsLayer fill:#ffe5b4,stroke:#ff9933,stroke-width:1px;
     classDef cloudLayer fill:#e6ccff,stroke:#9933ff,stroke-width:1px;
 ```
-
+<br><br>
 
 ## 🧰 Tech Stack
 
@@ -87,7 +87,7 @@ graph TD
 
 
 ---
-<br><br><br>
+<br><br>
 ## 💡 Soft Skills
 
 | Leadership                       | Technical                 | Interpersonal                |
@@ -96,11 +96,11 @@ graph TD
 | ⚙️ Process Optimization         | 🧩 Problem Solving        | 🤝 Collaboration             |
 | 🎯 Project Management           | 🚀 Automation Mindset     | 🪖 Military-Honed Discipline |
 
-<br><br><br>
+<br><br>
 ## 🌐 Connect With Me
 ### https://www.linkedin.com/in/md-abdullah-al-masud
 
-<br><br><br>
+<br><br>
 ## 🎮 Play My C# Blazor Game
 
 Check out my Guess the Number game built in C# and Blazor WebAssembly!
