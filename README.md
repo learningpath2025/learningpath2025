@@ -100,3 +100,10 @@ graph TD
 ## 🌐 Connect With Me
 ### https://www.linkedin.com/in/md-abdullah-al-masud
 
+
+## 🎮 Play My C# Blazor Game
+
+Check out my Guess the Number game built in C# and Blazor WebAssembly!
+
+👉 [Play it here]([https://learningpath2025.github.io/GuessNumberGame/guess])
+
