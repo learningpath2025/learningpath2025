@@ -105,5 +105,5 @@ graph TD
 
 Check out my Guess the Number game built in C# and Blazor WebAssembly!
 
-👉 [Play it here]([https://learningpath2025.github.io/GuessNumberGame/guess])
+👉 [Play it here](https://learningpath2025.github.io/GuessNumberGame/guess)
 
