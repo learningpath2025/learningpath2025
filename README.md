@@ -87,7 +87,7 @@ graph TD
 
 
 ---
-
+<br><br><br>
 ## 💡 Soft Skills
 
 | Leadership                       | Technical                 | Interpersonal                |
@@ -96,11 +96,11 @@ graph TD
 | ⚙️ Process Optimization         | 🧩 Problem Solving        | 🤝 Collaboration             |
 | 🎯 Project Management           | 🚀 Automation Mindset     | 🪖 Military-Honed Discipline |
 
-
+<br><br><br>
 ## 🌐 Connect With Me
 ### https://www.linkedin.com/in/md-abdullah-al-masud
 
-
+<br><br><br>
 ## 🎮 Play My C# Blazor Game
 
 Check out my Guess the Number game built in C# and Blazor WebAssembly!
