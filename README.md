@@ -103,7 +103,7 @@ graph TD
 <br><br>
 ## 🎮 Play My C# Blazor Game
 
-Check out my Guess the Number game built in C# and Blazor WebAssembly!
+Check out my games built in C# and Blazor WebAssembly!
 
-👉 [Play it here](https://learningpath2025.github.io/GuessNumberGame/guess)
+👉 [Play it here](https://learningpath2025.github.io/GuessNumberGame/)
 
